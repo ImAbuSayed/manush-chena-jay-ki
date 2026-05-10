@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Manush Chena Jay Ki
+
+This log tracks the cryptographic history and versioning for the song **Manush Chena Jay Ki** (manush-chena-jay-ki).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T07:25:19.155668 | `v1` | `93b1471c9fe4e04ccad1bec4ce5a7530531134473ab9f55fee2cc14b551c2464` | `3da3a095d6dbb31990eb5b28297cf7ce26bd6733b000b44ea6a69101ee1ecde5` | `2026-05-10_manush-chena-jay-ki-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
