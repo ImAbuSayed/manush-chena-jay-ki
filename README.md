@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/manush-chena-jay-ki/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Manush Chena Jay Ki](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/manush-chena-jay-ki/) |
+| **Get License** | [Request Licensing for Manush Chena Jay Ki](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/manush-chena-jay-ki/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এই মেঘের দেশে, খুঁজে বেড়াই ছায়া
+> বুকের ভেতর জড়িয়ে আছে, অদ্ভুত এক মায়া
+> রাতের তারায় স্বপ্ন বুনে, একলা বসে রই
+> হৃদয় মাঝে নীরব নদী, তোমায় খুঁজে পাই
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
